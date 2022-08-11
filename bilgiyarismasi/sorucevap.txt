@@ -1,0 +1,71 @@
+{
+     "sorular": [
+        "2003 Yılında Eurovizyon Şarkı Yarışmasında Birinci Gelen Sanatçımız Kimdir ?",
+        "Üç Büyük Dince Kutsal Sayılan Şehir Hangisidir ?",
+        "Sinekli Bakkal Romanının Yazarı Aşağıdakilerden Hangisidir ?",
+        "Mustafa Kemal Atatürk'ün Nüfusa Kayıtlı Olduğu İl Hangisidir ?",
+        "Bir Sebepten Dolayı Tek Kulağına Küpe Takan Osmanlı Padişahı Kimdir ?",
+        "Romen Rakamında Hangi Sayı Yoktur ?",
+        "Hangi İlimizde Demiryolu Yoktur ?",
+        "Aşağıdaki Ülkelerden Hangisinin Nüfusu Daha Fazladır ?",
+        "Labirentin Gölgesinde adlı Fantastik Romanın Yazarı Kimdir ?",
+        "Tsunami Felaketinde En Fazla Zarar Gören Güney Asya Ülkesi Hangisidir ?",
+        "Scoville Ölçeği Hangisini Ölçer ?",
+        "Bir İşin Uygun ve Kolay Olduğunu Belirtmek İçin Hangisi Söylenir ?",
+        "Hangisi Bazı Futbol Takımlarının, Taraftarları İçin Kullandıkları Bir İfadedir ?",
+        "Horozu Çok Olan Köyde Şeklinde Başlayan Atasözünün Devamı Nasıldır ?",
+        "Trafikte Hangi Araçların Arkasında Dolu ya da Boş Yazar ?",
+        "Hangi İkisi Rüzgar Türlerine Verilen Adlardır ?",
+        "Hangisi Yanlış Bir Kullanımdır ?",
+        "Anorak Hangisinin Bir Çeşididir ?"
+
+     ]
+
+    ,"secenekler": [
+        ["Grup Athena","Sertap Erener","Şebnem Paker","Ajda Pekkan"],
+        ["Mekke","Kudüs","Roma","İstanbul"],
+        ["Reşat Nuri Güntekin","Halide Edip Adıvar","Ziya Gökalp","Ömer Seyfettin"],
+        ["Bursa","Ankara","İstanbul","Gaziantep"],
+        ["Kanuni Sultan Süleyman","Yavuz Sultan Selim","Orhan Bey","Fatih Sultan Selim"],
+        ["0","50","100","1000"],
+        ["Batman","Kütahya","Aydın","Muğla"],
+        ["Fransa","İspanya","İngiltere","Türkiye"],
+        ["Haldun Taner","Mehmet Rauf","Yaşar Kemal","Yahya Karakurt"],
+        ["Endonezya","Srilanka","Tayland","Hindistan"],
+        ["Deniz Tuzluluğunu","Çikolata Tatlılığını","Limon Ekşiliğini","Biber Acılığını"],
+        ["Burnuma Göre","Kaşıma Göre","Bıyığıma Göre","Dişime Göre"],
+        ["12.adam","Yardımcı Eleman","Canlı Destek","Yedek Kuvvet"],
+        ["Sabah Erken Olur","Akşam Geç Olur","Akşam Erken Olur","Sabah Geç Olur"],
+        ["Akaryakıt Tankeri","Öğrenci Servisi","Harfiyat Kamyonu","Yolcu Otobüsü"],
+        ["Ay Kuzeyi ve Ay Güneyi","Gün Kuzeyi ve Gün Güneyi","Ay Doğusu ve Ay Batısı","Gün Doğusu ve Gün Batısı"],
+        ["Mefruşatçı","Züccaciyeci","Sahafçı","Manifaturacı"],
+        ["Topuklu Ayakkabı","Spor Ceket","Kot Pantolon","Yün Bere"]
+
+
+     ]
+
+     ,"cevaplar":
+     [2,2,2,4,2,1,4,4,4,1,4,4,1,4,1,4,3,2]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
